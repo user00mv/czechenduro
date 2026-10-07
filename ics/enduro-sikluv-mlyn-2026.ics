@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech Enduro//CZECHENDURO//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CZECHENDURO Šiklův mlýn
+X-WR-TIMEZONE:Europe/Prague
+BEGIN:VEVENT
+UID:enduro-sikluv-mlyn-2026@czechenduro.com
+DTSTAMP:20261007T151242Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260330
+SUMMARY:CZECHENDURO Šiklův mlýn (1/4)
+LOCATION:Zábavní park Šikland\, Šiklův Mlýn
+GEO:49.4769722;16.1688333
+DESCRIPTION:Úvodní podnik seriálu CZECHENDURO 2026! Podnik je vypsán i 
+ pro bezlicenční jezdce.\nPořadatel: Šikland Racing Team\nhttps://www.c
+ zechenduro.com/zavody/enduro-sikluv-mlyn-2026
+URL:https://www.czechenduro.com/zavody/enduro-sikluv-mlyn-2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech Enduro//CZECHENDURO//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CZECHENDURO Most
+X-WR-TIMEZONE:Europe/Prague
+BEGIN:VEVENT
+UID:enduro-most-2026@czechenduro.com
+DTSTAMP:20261007T151242Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260601
+SUMMARY:CZECHENDURO Most (2/4)
+LOCATION:Most - Lom Keramost /Poblíž letiště Most/
+GEO:50.531643;13.688976
+DESCRIPTION:Druhý podnik seriálu CZECHENDURO 2026! Podnik je vypsán i pr
+ o bezlicenční jezdce.\nPořadatel: Moto Most Club z.s.\nhttps://www.czec
+ henduro.com/zavody/enduro-most-2026
+URL:https://www.czechenduro.com/zavody/enduro-most-2026
+END:VEVENT
+END:VCALENDAR

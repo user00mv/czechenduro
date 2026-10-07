@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech Enduro//CZECHENDURO//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CZECHENDURO Mšeno
+X-WR-TIMEZONE:Europe/Prague
+BEGIN:VEVENT
+UID:enduro-mseno-2026@czechenduro.com
+DTSTAMP:20261007T151242Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:CZECHENDURO Mšeno (3/4)
+LOCATION:Mšeno u Mělníka /plochodrážní stadion/
+GEO:50.434738;14.647612
+DESCRIPTION:Třetí podnik seriálu CZECHENDURO 2026! Podnik je vypsán i p
+ ro bezlicenční jezdce.\nPořadatel: Enduro klub Mšeno v AČR\nhttps://w
+ ww.czechenduro.com/zavody/enduro-mseno-2026
+URL:https://www.czechenduro.com/zavody/enduro-mseno-2026
+END:VEVENT
+END:VCALENDAR
